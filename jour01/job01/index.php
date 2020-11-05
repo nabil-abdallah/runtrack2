@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Cours PHP & MySQL</title>
+        <title>Cours PHP </title>
         <meta charset="utf-8">
         <link rel="stylesheet" href="cours.css">
     </head>

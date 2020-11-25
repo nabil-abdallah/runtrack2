@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One&display=swap');
+
+body{
+	background: linear-gradient(212deg, rgba(0,0,0,1) 43%, rgba(223,25,0,1) 43%);
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+
+form{
+
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: center;
+    justify-content: space-around;
+    border: solid;
+    background-color: #C2C91C;
+    margin: auto;
+    height: 50%;
+    margin-top: 10%;
+    font-family: 'Germania One', cursive;
+}
+label{
+	font-size: 235%;
+	width: 75%;
+	text-align: center;
+	text-shadow: 2px 2px 3px #91702E;
+}
+
+select
+{
+	width: 90%;
+	text-align: center;
+	font-size: 200%;
+	font-family: 'Germania One', cursive;
+	background-color: black;
+	color: #ca4a4a;
+	text-shadow: 2px 2px 3px #6d0c0c;
+}
+}
+option{
+	font-family: 'Germania One', cursive;
+}
+input {
+
+    width: 30%;
+    font-size: 170%;
+    font-family: 'Germania One', cursive;
+    background-color: #ca4a4a;
+	color: #6d0c0c;
+	text-shadow: 2px 2px 3px black; 
+	transition: border-radius 0.7s,transform 1s;
+
+}
+input:hover{
+	border-radius: 30px;
+	transform: rotateY(360deg);
+
+}

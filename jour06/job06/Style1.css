@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Grand+Hotel&display=swap');
+
+body{
+	background-color: #1DB96C;
+}
+form{
+
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    background-color: #B91DA3;
+    margin: auto;
+    margin-top: 20%;
+    font-size: 200%;
+	text-transform: capitalize;
+	font-family: 'Grand Hotel', cursive;
+}
+input ,select,option{
+	    font-size: 80%;
+	    margin: 1%;
+	    font-family: 'Grand Hotel', cursive;
+}
